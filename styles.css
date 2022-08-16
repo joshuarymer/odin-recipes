@@ -3,13 +3,14 @@
 }
 
 body {
-    background-color: rgb(151, 203, 151);
+    color: black;
+    background-color: rgb(172, 246, 172);
 }
 
 .uni-img {
     height: auto;
     width: 540px;
-    border: 5px solid rgb(40, 157, 247)
+    border: 5px solid rgb(0, 142, 250)
 }
 
 h1, h2 {
