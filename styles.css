@@ -1,3 +1,12 @@
 * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.uni-img {
+    height: auto;
+    width: 540px;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
